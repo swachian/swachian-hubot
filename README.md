@@ -6,7 +6,7 @@ I have selected serveral hubot-scripts from the enormous amount of them. Feel fr
 the version if you take interest in hubot. Or to do better, click the [root_hubot](https://github.com/github/hubot)
 
 ## How to run
-The dependancies are put in the json file. However, it seems to use pretty much npms, parts of
+The dependancies are put in the json file. However, it seems to use pretty many npms, parts of
 them need to be compiled with native libraries. In ubuntu, run the commands at first:
 
 ```shell
