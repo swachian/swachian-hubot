@@ -5,9 +5,9 @@ I make some configs and tailor it to Gtalk.
 I have selected serveral hubot-scripts from the enormous amount of them. Feel free to clone
 the version if you take interest in hubot. Or to do better, click the [root_hubot](https://github.com/github/hubot)
 
-## how to run
-The dependancies are put in the json file. However, it seems to use pretty mach npms, parts of
-them need to compile native libraries. In ubuntu, run the commands at first:
+## How to run
+The dependancies are put in the json file. However, it seems to use pretty much npms, parts of
+them need to be compiled with native libraries. In ubuntu, run the commands at first:
 
 ```shell
 sudo apt-get install libexpat1 libexpat1-dev
